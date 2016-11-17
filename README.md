@@ -9,11 +9,11 @@ y montar esta carpeta master en el htdocs.
 Se descomprime la carpeta "assets" y se inserta un video en la carpeta "video".
 Se crea una base de datos, la default es CanSATService, y con una tabla llamada datos.
 
-## Usage
+## Entrada y uso
 
 Entramos a Chrome y escribimos esta ruta: localhost/FIM168-FINAL/
 
-## Contributing
+## Contribuciones
 
 Esta es la versión básica con la que participamos en el Primer Concurso Estatal de Misiones Espaciales.
 Cualquiera puede modificar código y usarlo, dando crédito a los autores.
@@ -26,8 +26,8 @@ Cualquiera puede modificar código y usarlo, dando crédito a los autores.
 
 ## Credits
 
-Jesús Rojas, José Díaz Arvizu, Marisol Mata, Jonathan Chávez, Ángel Ávalos, Osiel, Mario, Ema.
+Jesús Rojas, José Díaz Arvizu, Marisol Mata, Jonathan Chávez, Ángel Ávalos, Oziel Díaz, Mario Arellano, Emanuel Martínez.
 
-## License
+## Licencia
 
 MIT License.
